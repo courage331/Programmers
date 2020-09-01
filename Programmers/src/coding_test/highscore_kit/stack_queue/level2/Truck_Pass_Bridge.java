@@ -9,6 +9,7 @@ import java.util.*;
  * @ 김지민
  * 
  */
+
 //트럭 클래스
 class Truck {
 	int weight;
