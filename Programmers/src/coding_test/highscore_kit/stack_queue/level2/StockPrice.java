@@ -18,6 +18,7 @@ public class StockPrice {
 			for (int i = 0; i < prices.length; i++) {
 				stock.push(prices[i]);
 			}
+			//없을때까지 반복
 			while(!stock.isEmpty()) {
 				int value = stock.pop();
 				save.add(value);

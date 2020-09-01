@@ -9,7 +9,7 @@ import java.util.*;
  * @ 김지민
  * 
  */
-
+//인쇄 클래스
 class Paper{
     int pos;
     int chk;

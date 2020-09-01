@@ -21,6 +21,7 @@ public class FunctionDevelopment {
 			
 			for (int i = 0; i < times.length; i++) {
 				times[i]=(int) Math.ceil((double)(100-progresses[i])/speeds[i]);
+				//시간을 처리한다.
 				if(i==0) {
 					day.push(times[i]);
 					arr.add(1);
