@@ -1,7 +1,13 @@
 package coding_test.highscore_kit.heap.level3;
 
 import java.util.*;
-
+/*
+ * 
+ * 테스트명 : 디스크 컨트롤러
+ * 
+ * @ 김지민
+ * 
+ */
 class Disk_Controller {
 
 	public int solution(int[][] jobs) {
