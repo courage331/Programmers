@@ -25,7 +25,7 @@ public class UnsucessfulPlayer {
 				int count = player.get(completion[i]);
 				player.put(completion[i], count - 1);
 			}
-
+			//answer에다가 key 값을 넣어준다.
 			Iterator<String> keys = player.keySet().iterator();
 			while (keys.hasNext()) {
 				String key = keys.next();
