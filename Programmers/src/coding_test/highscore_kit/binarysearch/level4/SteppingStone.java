@@ -2,6 +2,14 @@ package coding_test.highscore_kit.binarysearch.level4;
 
 import java.util.*;
 
+/*
+ * 
+ * 테스트명 : 징검다리
+ * 
+ * @ 김지민
+ * 
+ */
+
 
 /*
 문제에서 묻는 바를 다르게 생각할 수 있어야하는 것 같다. 
