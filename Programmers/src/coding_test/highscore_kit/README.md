@@ -43,6 +43,16 @@
 
 
 ## 그리디(Greedy)
+* level1
+  * [체육복](https://github.com/courage331/Programmers/blob/master/Programmers/src/coding_test/highscore_kit/greedy/level1/Sports_Clothes.java) 
+* level2
+  * [구멍보트](https://github.com/courage331/Programmers/blob/master/Programmers/src/coding_test/highscore_kit/greedy/level2/Boat.java)
+  * [조이스틱](https://github.com/courage331/Programmers/blob/master/Programmers/src/coding_test/highscore_kit/greedy/level2/JoyStick.java)
+  * [큰 수 만들기](https://github.com/courage331/Programmers/blob/master/Programmers/src/coding_test/highscore_kit/greedy/level2/Make_BigNumber.java)
+* level3
+  * [단속 카메라](https://github.com/courage331/Programmers/blob/master/Programmers/src/coding_test/highscore_kit/greedy/level3/Camera.java)
+  * [섬 연결하기](https://github.com/courage331/Programmers/blob/master/Programmers/src/coding_test/highscore_kit/greedy/level3/Link_Island.java)
+  
 
 
 ## 동적 계획법(Dynamic Programming)
