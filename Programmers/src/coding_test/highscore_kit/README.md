@@ -35,7 +35,11 @@
   * [H-Index](https://github.com/courage331/Programmers/blob/master/Programmers/src/coding_test/highscore_kit/sort/level2/H_Index.java)
   
 ## 완전탐색
-
+* level1
+  * [모의고사](https://github.com/courage331/Programmers/blob/master/Programmers/src/coding_test/highscore_kit/bruteforce/level1/SemiTest.java)
+* level2
+  * [카펫](https://github.com/courage331/Programmers/blob/master/Programmers/src/coding_test/highscore_kit/bruteforce/level2/Carpet.java) 
+  * [소수 찾기](https://github.com/courage331/Programmers/blob/master/Programmers/src/coding_test/highscore_kit/bruteforce/level2/PrimeNumber.java) 
 
 
 ## 그리디(Greedy)
