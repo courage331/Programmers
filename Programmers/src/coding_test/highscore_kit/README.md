@@ -1,6 +1,6 @@
 # 코딩테스트 고득점 kit
    * 사용언어 : Java
-
+[]()
 <hr>
 
 ## 해시
@@ -21,6 +21,11 @@
    * [다리를 지나는 트럭](https://github.com/courage331/Programmers/blob/master/Programmers/src/coding_test/highscore_kit/stack_queue/level2/Truck_Pass_Bridge.java)
 
 ## 힙(Heap)
+* level2
+  * [더 맵게](https://github.com/courage331/Programmers/blob/master/Programmers/src/coding_test/highscore_kit/heap/level2/Hotter.java)
+* level3
+  * [디스크 컨트롤러](https://github.com/courage331/Programmers/blob/master/Programmers/src/coding_test/highscore_kit/heap/level3/Disk_Controller.java)
+  * [이중 우선순위 큐](https://github.com/courage331/Programmers/blob/master/Programmers/src/coding_test/highscore_kit/heap/level3/Double_Priority_Queue.java)
 
 
 ## 정렬
