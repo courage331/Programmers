@@ -56,10 +56,20 @@
 
 
 ## 동적 계획법(Dynamic Programming)
-
+* level3
+  * [정수 삼각형](https://github.com/courage331/Programmers/blob/master/Programmers/src/coding_test/highscore_kit/dynamicprogramming/level3/IntegerTriangle.java)
+  * [등굣길](https://github.com/courage331/Programmers/blob/master/Programmers/src/coding_test/highscore_kit/dynamicprogramming/level3/RoadToSchool.java)
+  * [N으로 표현](https://github.com/courage331/Programmers/blob/master/Programmers/src/coding_test/highscore_kit/dynamicprogramming/level3/representN.java) 
+* level4
+  * [도둑질](https://github.com/courage331/Programmers/blob/master/Programmers/src/coding_test/highscore_kit/dynamicprogramming/level4/Thievery.java)
 
 ## 깊이/너비 우선 탐색법(dfs, bfs)
-
+* level2
+  * [타겟 넘버](https://github.com/courage331/Programmers/blob/master/Programmers/src/coding_test/highscore_kit/dfs_bfs/level2/TargetNumber.java) 
+* level3
+  * [네트워크](https://github.com/courage331/Programmers/blob/master/Programmers/src/coding_test/highscore_kit/dfs_bfs/level3/Network.java)
+  * [여행경로](https://github.com/courage331/Programmers/blob/master/Programmers/src/coding_test/highscore_kit/dfs_bfs/level3/TravelRoute.java)
+  * [단어변환](https://github.com/courage331/Programmers/blob/master/Programmers/src/coding_test/highscore_kit/dfs_bfs/level3/WordChange.java)
 
 ## 이분탐색
 * level3
