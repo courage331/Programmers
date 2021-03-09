@@ -1,6 +1,14 @@
 package coding_test.SummerWinterCoding2019;
 import java.util.*;
 
+/*
+ * 
+ * 테스트명 : 크레인 인형뽑기 게임  
+ * 
+ * @ 김지민
+ * 
+ */
+
 public class CraneGame {
 
 	class Solution {
