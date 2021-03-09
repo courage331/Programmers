@@ -5,4 +5,4 @@
  * [기지국 설치](https://github.com/courage331/Programmers/blob/master/Programmers/src/coding_test/SummerWinterCoding2018/BaseStation.java)
  
  
- * [쿠키 ](https://github.com/courage331/Programmers/blob/master/Programmers/src/coding_test/SummerWinterCoding2018/BuyCookie.java)
+ * [쿠키 구입](https://github.com/courage331/Programmers/blob/master/Programmers/src/coding_test/SummerWinterCoding2018/BuyCookie.java)
