@@ -27,25 +27,29 @@
   * [디스크 컨트롤러](https://github.com/courage331/Programmers/blob/master/Programmers/src/coding_test/highscore_kit/heap/level3/Disk_Controller.java)
   * [이중 우선순위 큐](https://github.com/courage331/Programmers/blob/master/Programmers/src/coding_test/highscore_kit/heap/level3/Double_Priority_Queue.java)
 
-
 ## 정렬
-
-<hr>
+* level1
+  * [K번째 수](https://github.com/courage331/Programmers/blob/master/Programmers/src/coding_test/highscore_kit/sort/level1/Kth_Number.java)
+* level2
+  * [가장 큰 수](https://github.com/courage331/Programmers/blob/master/Programmers/src/coding_test/highscore_kit/sort/level2/Biggest_Number.java)
+  * [H-Index](https://github.com/courage331/Programmers/blob/master/Programmers/src/coding_test/highscore_kit/sort/level2/H_Index.java)
+  
 ## 완전탐색
 
-<hr>
+
+
 ## 그리디(Greedy)
 
-<hr>
+
 ## 동적 계획법(Dynamic Programming)
 
-<hr>
+
 ## 깊이/너비 우선 탐색법(dfs, bfs)
 
-<hr>
+
 ## 이분탐색
 
-<hr>
+
 ## 그래프
 
-<hr>
+
