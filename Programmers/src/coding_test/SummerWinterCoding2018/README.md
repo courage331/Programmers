@@ -14,5 +14,5 @@
  * [숫자 게임](https://github.com/courage331/Programmers/blob/master/Programmers/src/coding_test/SummerWinterCoding2018/NumberGame.java)
  * [스킬트리](https://github.com/courage331/Programmers/blob/master/Programmers/src/coding_test/SummerWinterCoding2018/SkillTree.java)
  * [방문 길이](https://github.com/courage331/Programmers/blob/master/Programmers/src/coding_test/SummerWinterCoding2018/VisitLength.java)
- * [영어 끝말잇기](https://github.com/courage331/Programmers/blob/master/Programmers/src/coding_test/SummerWinterCoding2018/WordChaing.java)
+ * [영어 끝말잇기](https://github.com/courage331/Programmers/blob/master/Programmers/src/coding_test/SummerWinterCoding2018/WordChain.java)
 
