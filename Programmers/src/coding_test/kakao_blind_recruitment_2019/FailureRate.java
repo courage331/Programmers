@@ -1,6 +1,5 @@
 package coding_test.kakao_blind_recruitment_2019;
 import java.util.*;
-
 /*
  * 
  * 테스트명 : 실패 
