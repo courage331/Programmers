@@ -8,7 +8,6 @@ import java.util.*;
  * @ 김지민
  * 
  */
-
 public class CraneGame {
 
 	class Solution {
