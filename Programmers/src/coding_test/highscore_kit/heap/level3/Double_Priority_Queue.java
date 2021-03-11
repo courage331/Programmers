@@ -2,7 +2,6 @@ package coding_test.highscore_kit.heap.level3;
 
 import java.util.*;
 
-
 /*
  * 
  * 테스트명 : 이중 우선 순위 큐  
@@ -10,7 +9,6 @@ import java.util.*;
  * @ 김지민
  * 
  */
-
 
 class Num implements Comparable<Num>{ 
 
