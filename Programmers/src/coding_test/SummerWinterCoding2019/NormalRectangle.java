@@ -1,5 +1,4 @@
 package coding_test.SummerWinterCoding2019;
-
 import java.util.*;
 /*
  * 
