@@ -4,5 +4,7 @@ public class StringCompression {
     public void solution(){
         System.out.println();
         System.out.println();
+        System.out.println();
+        System.out.println();
     }
 }
