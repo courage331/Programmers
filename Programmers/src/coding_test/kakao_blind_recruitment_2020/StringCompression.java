@@ -6,5 +6,6 @@ public class StringCompression {
         System.out.println();
         System.out.println();
         System.out.println();
+        System.out.println();
     }
 }
