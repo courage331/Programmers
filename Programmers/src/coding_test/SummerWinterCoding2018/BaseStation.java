@@ -18,7 +18,7 @@ class BaseStation {
             // 기지국이 설치된(stations 배열의 요소가 존재할 때 까지) 곳 까지만 탐색
             // 현재의 위치(posotion)가 기존 설치된 기지국(stations[si])의 전파 범위(w) 안에 있는지 확인
             // 만약 기존 설치된 기지국의 범위 안에 있을경우 => 전파 범위이므로 기지국을 설치할 필요가 없다.
-            if (si < stations.length && position >= stations[si] - w) {
+                if (si < stations.length && position >= stations[si] - w) {
                 // 다음 이동해야 할 포지션
                 position = stations[si] + w + 1; // 기지국의 오른쪽 끝
                 si++; // 다음 설치한 기지국을 찾기 위해 인덱스 +1
