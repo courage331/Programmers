@@ -8,7 +8,6 @@ import java.util.*;
  * @ 김지민
  *
  */
-
 public class StringCompression {
 
         public int solution(String s) {
