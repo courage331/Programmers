@@ -65,7 +65,6 @@ public class FindLargestRectangle {
             return answer;
         }
 
-
     }
 
 }
