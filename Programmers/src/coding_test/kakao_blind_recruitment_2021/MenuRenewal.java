@@ -99,19 +99,6 @@ public class MenuRenewal {
         int mid = 0;
         int end = arr.size();
         int start = 0;
-        if (arr.size() == 1) {
-            int a = arr.get(0) >= score ? 1 : 0;
-            return a;
-        }
-
-        if (arr.get(arr.size() - 1) < score) {
-            return 0;
-        }
-
-
-        if (arr.get(0) >= score) {
-            return arr.size();
-        }
 
         while (end > start) // end가 start보다 같거나 작아지면, 그 값이 Lower Bound이므로 반복을 종료한다.
         {
