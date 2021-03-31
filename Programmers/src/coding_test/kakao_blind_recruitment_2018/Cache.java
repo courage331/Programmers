@@ -12,47 +12,35 @@ import java.util.*;
 
 public class Cache {
 
-        public int solution(int cacheSize, String[] cities) {
-            int answer = 0;
+    public int solution(int cacheSize, String[] cities) {
+        int answer = 0;
 
-            List<String>arr = new ArrayList<>();
+        List<String> arr = new ArrayList<>();
 
-            if(cacheSize==0){
-                return cities.length * 5;
-            }else{
-                arr.add(cities[0].toLowerCase());
-                answer+=5;
-            }
-
-
-            for(int i=1; i<cities.length; i++){
-                cities[i] = cities[i].toLowerCase();
-
-                if(arr.size()<cacheSize){
-                    if(arr.contains(cities[i])){
-                        arr.remove(cities[i]);
-                        arr.add(cities[i]);
-                        answer+=1;
-                    }else{
-                        arr.add(cities[i]);
-                        answer+=5;
-                    }
-
-
-                }else{
-                    if(arr.contains(cities[i])){
-                        arr.remove(cities[i]);
-                        arr.add(cities[i]);
-                        answer+=1;
-                    }else{
-                        arr.remove(0);
-                        arr.add(cities[i]);
-                        answer+=5;
-                    }
-                }
-            }
-
-            return answer;
+        if (cacheSize == 0) {
+            return cities.length * 5;
         }
 
+
+        for (int i = 0; i < cities.length; i++) {
+            cities[i] = cities[i].toLowerCase();
+
+            if (arr.contains(cities[i])) {
+                arr.remove(cities[i]);
+                arr.add(cities[i]);
+                answer += 1;
+            } else {
+                if (arr.size() < cacheSize) {
+                    arr.add(cities[i]);
+                    answer += 5;
+                } else {
+                    arr.remove(0);
+                    arr.add(cities[i]);
+                    answer += 5;
+                }
+            }
+        }
+
+        return answer;
+    }
 }
