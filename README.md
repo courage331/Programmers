@@ -10,4 +10,4 @@
 
 >[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=minzikim)](https://velog.io/@courage331)
 
->[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=courage331&tag=Programmers)](https://github.com/courage331/Promgrammers)
+>[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=courage331&tag=프로그래머스)](https://github.com/courage331/Promgrammers)
