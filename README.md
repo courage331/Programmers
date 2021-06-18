@@ -4,3 +4,10 @@
 * [2018 Summer/Winter Coding](https://github.com/courage331/Programmers/tree/master/Programmers/src/coding_test/SummerWinterCoding2018)
 
 * [2019 Summer/Winter Coding](https://github.com/courage331/Programmers/tree/master/Programmers/src/coding_test/SummerWinterCoding2019)
+
+[Programmers 풀이](https://velog.io/@courage331/series/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4)
+
+
+>[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=minzikim)](https://velog.io/@courage331)
+
+>[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=courage331&tag=Programmers)](https://github.com/courage331/Promgrammers)
